@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4018E200-59FC-452B-B15E-80DAF14D5CF4}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4018E200-59FC-452B-B15E-80DAF14D5CF4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB8A102-1A27-418B-9730-6E6732C36F66}|pr8.1 rek\\pr8.1 rek.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\pr8.1 rek\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AB8A102-1A27-418B-9730-6E6732C36F66}|pr8.1 rek\\pr8.1 rek.vcxproj|solutionrelative:pr8.1 rek\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\pr8.1 rek\\Source.cpp",
+              "RelativeDocumentMoniker": "pr8.1 rek\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\pr8.1 rek\\Source.cpp",
+              "RelativeToolTip": "pr8.1 rek\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T23:48:01.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 REK\\pr8.1 rek\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T23:56:14.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

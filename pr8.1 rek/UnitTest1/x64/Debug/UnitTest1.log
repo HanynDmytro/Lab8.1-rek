@@ -1,0 +1,3 @@
+﻿     Creating library D:\Politeh\AP\LAB\pr8\pr8.1 REK\pr8.1 rek\x64\Debug\UnitTest1.lib and object D:\Politeh\AP\LAB\pr8\pr8.1 REK\pr8.1 rek\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol Count referenced in function "public: void __cdecl UnitTest1::UnitTest1::TestCount(void)" (?TestCount@UnitTest1@1@QEAAXXZ)
+D:\Politeh\AP\LAB\pr8\pr8.1 REK\pr8.1 rek\x64\Debug\UnitTest1.dll : fatal error LNK1120: 1 unresolved externals
